@@ -7,6 +7,7 @@
 * Add the app.py, requirements.txt, Dockerfile in it.
 * Push the directory to git-hub repository using SSH authentication
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
 ### STEP TWO
@@ -46,13 +47,13 @@
   <br>
   
   * Apply Jenkins Job
-   ![Apply Jenkins Job](Jenkins-pipeline.png)
+   ![Apply Jenkins Job](Jenkins-Pipeline.png)
    <br>
    
    * Image pushed to ECR successfully
    ![title](AWS-ECR-build.png )
   
   
-  
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  
