@@ -6,7 +6,7 @@
 
 ### DOCKERIZATION 
 
-This is the first stage of the assessment. It includes the dockerizzation of Flask App. A flask app code is written in [**app.py**](https://github.com/divyanshuss/opslyft/blob/main/app.py). The [**Dockerfile**](https://github.com/divyanshuss/opslyft/blob/main/Dockerfile) is created for the corresponding flask app by exposing it to port 5001. The Environment variable is also set up which can be changed as per the need.
+This is the first stage of the assessment. It includes the dockerization of a Flask App. A flask app code is written in [**app.py**](https://github.com/divyanshuss/opslyft/blob/main/app.py). The [**Dockerfile**](https://github.com/divyanshuss/opslyft/blob/main/Dockerfile) is created for the corresponding flask app by exposing it to port 5001. The Environment variable is also set up which can be changed as per the need.
 
 
 ![images (1)](https://predictivehacks.com/wp-content/uploads/2020/10/docker-python-api-1536x800.jpg)
