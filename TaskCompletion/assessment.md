@@ -6,6 +6,7 @@
 * Create a directory using  **mkdir directory_name** 
 * Add the app.py, requirements.txt, Dockerfile in it.
 * Push the directory to git-hub repository using SSH authentication
+![title](directory.png )
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
