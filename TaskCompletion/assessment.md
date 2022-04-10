@@ -28,7 +28,7 @@
  ```
  
  * Create an AWS-ECR repository 
- ![Add git-repo-url](AWS_ECR.png = 100x100)
+ ![title](AWS-ECR-build.png = 100x100)
  
  * Create the jenkins pipeline job and run the job to build and push images.
  
