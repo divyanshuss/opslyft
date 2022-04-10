@@ -33,16 +33,16 @@
  
  * Create the jenkins pipeline job and run the job to build and push images.
  
- ![Add git-repo-url](pipeline-1.png =100x100)
+ ![Add git-repo-url](pipeline-1.png)
  <br>
  
-  ![Build-Triggers](build-trigger.png =100x100)
+  ![Build-Triggers](build-trigger.png)
   <br>
   
-  ![Add-pipeline-script](pipeline.png =100x100)
+  ![Add-pipeline-script](pipeline.png)
   <br>
   
-   ![Apply Jenkins Job](Jenkins-pipeline.png =100x100)
+   ![Apply Jenkins Job](Jenkins-pipeline.png)
    <br>
   
   
