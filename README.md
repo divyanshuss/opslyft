@@ -15,7 +15,7 @@ This is the first stage of the assessment. It includes the dockerization of a Fl
 ### BUILDING IMAGE USING CI/CD
 
 The Dockerfile is build using Jenkins pipeline script. 
-Create the jenkins server and also install docker and git.Give docker permission to use jenkins by adding it into the jenkins group. Reload the daemons before building a jenkins job. Jenkins server is configured and a new [**pipeline**](https://github.com/divyanshuss/opslyft/blob/main/Jenkins-Pipeline) job has been created which builds the docker image and pushes it to the  AWS ECR. Jenkins-pipeline contains the pipeline script that needs to be written while creating a jenkins job. It fetches the Dockerfile from github and builds the image and pushes it to Amazon ECR.
+Create the jenkins server and also install docker and git.Give jenkins user permission to use docker by adding it into the docker group. Reload the daemons before building a jenkins job. Jenkins server is configured and a new [**pipeline**](https://github.com/divyanshuss/opslyft/blob/main/Jenkins-Pipeline) job has been created which builds the docker image and pushes it to the  AWS ECR. Jenkins-pipeline contains the pipeline script that needs to be written while creating a jenkins job. It fetches the Dockerfile from github and builds the image and pushes it to Amazon ECR.
 
 
 ![image (1)](https://i0.wp.com/foxutech.com/wp-content/uploads/2018/12/Setup-Jenkins-with-Amazon-Elastic-Container-Registry.png?resize=696%2C382&ssl=1)
